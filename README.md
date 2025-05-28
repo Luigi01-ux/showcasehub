@@ -18,7 +18,7 @@ A Django-based web application for showcasing products with teaser and catalog s
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/projectname.git
-git clone https://github.com/Luigi01-ux/showcaschub.git
+git clone https://github.com/Luigi01-ux/showcasehub.git
 cd projectname
 
 ## step-by-step how to run the system:
